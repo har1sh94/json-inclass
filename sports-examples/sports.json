@@ -1,1 +1,23 @@
+[
+    {
+        "name": "Football",
+        "players": 11,
+        "pitch": "outside"
+    },
+    {
+        "name": "Basketball",
+        "players": 10,
+        "pitch": "inside"
+    },
+    {
+        "name": "Tennis",
+        "players": 2,
+        "pitch": "outside"
+    }
+]
+
+
+
+
+    
 
