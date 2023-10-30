@@ -1,1 +1,1 @@
-[json-inclas](https://komailk.github.io/json-inclass/)
+[Live demo](https://komailk.github.io/json-inclass/sports-examples/sports.json)
