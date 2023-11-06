@@ -3,7 +3,7 @@
         "name": "Football",
         "players": 11,
         "pitch": "outside",
-        "image": ./media/img/image1.png
+        "image": "./media/img/image1.png"
 
     },
     {
