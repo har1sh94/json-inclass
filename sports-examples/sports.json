@@ -3,39 +3,40 @@
         "name": "Football",
         "players": 11,
         "pitch": "outside",
-        
+        "image": "image1.jpg"
     },
     {
         "name": "Basketball",
         "players": 10,
         "pitch": "inside",
-        
+        "image": "image2.jpg"
     },
     {
         "name": "Tennis",
         "players": 2,
         "pitch": "outside",
-        
+        "image": "image3.jpg"
     },
     {
         "name": "Volleyball",
         "players": 6,
         "pitch": "inside",
-   
+        "image": "image4.jpg"
     },
     {
         "name": "Baseball",
         "players": 9,
         "pitch": "outside",
-    
+        "image": "image5.jpg"
     },
     {
         "name": "Swimming",
         "players": "varies",
         "pitch": "pool",
-        
+        "image": "image6.jpg"
     }
 ]
+
 
 
 
