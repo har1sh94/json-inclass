@@ -4,6 +4,7 @@
         "players": 11,
         "pitch": "outside",
         "image": "./media/img/image1.png"
+
     },
     {
         "name": "Basketball",
