@@ -2,20 +2,40 @@
     {
         "name": "Football",
         "players": 11,
-        "pitch": "outside"
+        "pitch": "outside",
+        
     },
     {
         "name": "Basketball",
         "players": 10,
-        "pitch": "inside"
+        "pitch": "inside",
+        
     },
     {
         "name": "Tennis",
         "players": 2,
-        "pitch": "outside"
+        "pitch": "outside",
+        
+    },
+    {
+        "name": "Volleyball",
+        "players": 6,
+        "pitch": "inside",
+   
+    },
+    {
+        "name": "Baseball",
+        "players": 9,
+        "pitch": "outside",
+    
+    },
+    {
+        "name": "Swimming",
+        "players": "varies",
+        "pitch": "pool",
+        
     }
 ]
-
 
 
 
